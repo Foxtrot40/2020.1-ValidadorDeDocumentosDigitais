@@ -16,16 +16,21 @@ O planejamento é um artefato que define a organização inicial do projeto. Nel
 
 ## Cronograma de entregas
 
-|              Módulo               |                       Descrição                        | Data planejada | Data limite |
-| :-------------------------------: | :----------------------------------------------------: | :------------: | :---------: |
-|        Pré-rastreabilidade        |                      RichPictures                      |   01/09/2020   | 02/09/2020  |
-|           Planejamento            |     Ferramentas, equipe, cronograma e planejamento     |   05/09/2020   | 07/09/2020  |
-|            Elicitação             |  Priorização, introspecção, brainstorm, questionário   |   26/09/2020   | 28/09/2020  |
-| Modelagem - Inicial e Tradicional | Cenários , léxico, use case, especificação suplementar |   07/10/2020   | 09/10/2020  |
-|         Modelagem - Ágil          |           Histórias de usuário, backlog, NFR           |   26/10/2020   | 28/10/2020  |
-|              Análise              |                 Verificação, validação                 |   07/11/2020   | 09/11/2020  |
-|        Pós-rastreabilidade        |              Forward-From, Backward-From               |   25/11/2020   | 26/11/2020  |
+|                       Descrição                        | Data planejada | Data limite |
+| :----------------------------------------------------: | :------------: | :---------: |
+|     Ferramentas, equipe, cronograma, processo de design e site selecionado     |   21/09/2020   | 21/09/2020  |
+|   Perfil do usuário, Personas e Análise de tarefas   |   04/10/2020   | 05/10/2020  |
+|  Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo.  |   13/10/2020   | 15/10/2020  |
+|           Planejamento da Avaliação e do relato dos resultados da avaliação do Storyboard e Análise de tarefas.           |   26/10/2020   |29/10/2020  |
+|                 Planejamento da Avaliação e o relato dos resultados da avaliação do Storyboard e Protótipo de Papel.                |   03/11/2020   | 05/11/2020  |
+|               Planejamento da Avaliação e o relato dos resultados da avaliação do protótipo de alta fidelidade.               |   18/11/2020   | 19/11/2020  |
 
+## Lista de sites avaliados
+### Validador de Documentos Digitais
+Para garantir a validade e integridade dos documentos assinados digitalmente, o Validador de Documentos Digitais surgiu como solução. O produto pretende atender a lei que prevê o uso da telemedicina, uma área nova que ainda não tem muito suporte. Com esse objetivo, o sistema tem algumas propostas como: garantir a integridade e validade dos documentos, combater fraudes de documentos, como atestados e receituários, e não quebrar o sigilo dos envolvidos no documento. 
+## Processo de design
+
+????????????????
 ## Históricos de Revisões
 
 |    Data    | Versão |        Descrição         |                    Autor(es)                     |
