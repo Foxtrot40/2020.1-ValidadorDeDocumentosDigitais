@@ -32,6 +32,9 @@ Para garantir a validade e integridade dos documentos assinados digitalmente, o 
 ### DETRAN-DF
 O sistema do DETRAN-DF tem por objetivo facilitar o acesso a informações de todos os veículos em circulação no Distrito Federal. Porém o site apresenta vários indicios de que esse objetivo não é alcançado de maneira efetiva, o site apresenta a informação de maneira bagunçada e não guia o usuário durante o uso.
 
+### Portal do servidor - PA
+O portal do servidor tem por objetivo ser um centro de informações para os servidores públicos do estado do Pará, com notícias, busca de protocolos, etc. Ao avaliar o site do ponto de vista de IHC, porém, nota-se que muitos aspectos do site deixam a desejar e também o método como foi feito, do ponto de vista de engenharia, o site parece estar bem desatualizado.
+
 ## Site selecionado para o projeto da disciplina
 
 O site escolhido foi o Validador de Documentos Digitais.
@@ -98,8 +101,9 @@ Apresentar a interpretação dos resultados obtidos.
 
 ## Históricos de Revisões
 
-|    Data    | Versão |        Descrição         |                    Autor(es)                     |
-| :--------: | :----: | :----------------------: | :----------------------------------------------: |
-| 07/09/2020 |  1.0   |  Criação do documento.   |                  Ithalo Azevedo                  |
-| 21/09/2020 |  1.5   | Inclusão do planejamento |                  William Vieira                  |
+|    Data    | Versão |        Descrição                      |                    Autor(es)                                  |
+| :--------: | :----: | :-----------------------------------: | :-----------------------------------------------------------: |
+| 07/09/2020 |  1.0   |  Criação do documento.                |                  Ithalo Azevedo                               |
+| 21/09/2020 |  1.5   | Inclusão do planejamento              |                  William Vieira                               |
+| 21/09/2020 |  1.6   | Inclusão de seção em sites avaliados  |                  Marcos Cabeceira                             |
 
