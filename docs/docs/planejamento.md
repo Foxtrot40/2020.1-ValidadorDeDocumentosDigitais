@@ -9,6 +9,7 @@ O planejamento é um artefato que define a organização inicial do projeto. Nel
 | Github          | Plataforma onde será hospedado o repositório do código da aplicação. https://github.com/ |
 | Telegram        | Utilizado para comunicação entre o grupo                                                 |
 | Microsoft Teams | Utilizado para fazer chamadas de vídeo entre o grupo e o professor                       |
+| Figma           | Utilizado para prototipagem, Figma é uma software aberto e muito usado na industria      |
 
 ## Labels
 
@@ -106,4 +107,5 @@ Apresentar a interpretação dos resultados obtidos.
 | 07/09/2020 |  1.0   |  Criação do documento.                |                  Ithalo Azevedo                               |
 | 21/09/2020 |  1.5   | Inclusão do planejamento              |                  William Vieira                               |
 | 21/09/2020 |  1.6   | Inclusão de seção em sites avaliados  |                  Marcos Cabeceira                             |
+| 04/10/2020 |  1.7   | Icnlusão da ferramenta de Prototipagem |                 Marcos Cabeceira                             |
 
